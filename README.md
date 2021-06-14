@@ -1,4 +1,4 @@
-# BrightWheel Performance Task
+# BrightWheel
 
 ### To install and run the application
 1. Navigate to the repository, create a virtual environment (e.g. `python3 -m venv env`), and install the requirements 
